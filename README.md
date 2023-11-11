@@ -8,5 +8,9 @@
 	</a>
 </p>
 
+<p align="center">
+	<a href="https://wakatime.com/@617f9d3c-9fc6-4ae9-a28e-c6047c45ccbc">
+		<img src="https://wakatime.com/badge/user/617f9d3c-9fc6-4ae9-a28e-c6047c45ccbc.svg" alt="Total time coded since Aug 20 2021" />
+	</a>
 </p>
 <br>
