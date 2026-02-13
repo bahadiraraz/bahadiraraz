@@ -5,13 +5,13 @@
         <img
             height="180em"
             align="center"
-            src="https://stat-umber.vercel.app/api?username=bahadiraraz&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true&v=1"
+            src="https://stat-umber.vercel.app/api?username=bahadiraraz&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true&v=2"
             alt="bahadiraraz github stats"
         />
         <img
             height="180em"
             align="center"
-            src="https://stat-umber.vercel.app/api/top-langs?username=bahadiraraz&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark&v=1"
+            src="https://stat-umber.vercel.app/api/top-langs?username=bahadiraraz&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark&v=2"
             alt="bahadiraraz top languages"
         />
     </a>
@@ -25,3 +25,4 @@
         />
     </a>
 </p>
+
